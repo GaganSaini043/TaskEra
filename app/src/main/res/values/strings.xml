@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskEra</string>
+    <string name="txt_startprimary">Let\'s Get Started</string>
+    <string name="txt_startsecondary">Collaborate and Plan Together Across Multiple Devices on
+        TaskEra\'s Minimalist Interface.</string>
+    <string name="txt_signup">Enter your name, email id and password, to register with us.</string>
+</resources>
